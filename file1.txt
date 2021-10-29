@@ -1,0 +1,3 @@
+Hello git!
+In file1
+I'm Joe!
