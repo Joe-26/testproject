@@ -1,3 +1,4 @@
 Hello git!
 In file1
 I'm Joe!
+This line is added as part of second branch.
